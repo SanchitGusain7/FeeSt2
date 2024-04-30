@@ -1,0 +1,8 @@
+.blurry-image {
+    filter: blur(30px); /* Initial blur effect */
+    transition: filter 0.3s ease; /* Smooth transition for blur effect */
+}
+
+.loading-text {
+    color: white;
+}
